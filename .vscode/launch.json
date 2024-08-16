@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiRickAndMortyRestTemplateApplication<Api-Rick_And_Morty_RestTemplate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.JD.Api_Rick_And_Morty._RestTemplate.ApiRickAndMortyRestTemplateApplication",
+            "projectName": "Api-Rick_And_Morty_RestTemplate",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
